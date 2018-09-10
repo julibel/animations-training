@@ -8,9 +8,10 @@ export default StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center'
   },
-  mainButton: {
-    backgroundColor: green,
-    padding: 10,
-    borderRadius: 3
+  head: {
+    borderRadius: 500,
+    height: 70,
+    width: 80,
+    backgroundColor: green
   }
 });

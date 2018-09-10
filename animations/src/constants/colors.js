@@ -1,5 +1,6 @@
 exports.blue = '#288CCB';
 exports.green = '#53E69D';
+exports.red = '#FF226E';
 
 exports.transparent = 'transparent';
 
